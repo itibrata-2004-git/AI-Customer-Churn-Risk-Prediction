@@ -1,4 +1,5 @@
-# AI-Customer-Churn-Risk-Prediction
+
+# 📊 AI Sales & Customer Intelligence Platform
 
 An AI-powered business analytics platform that helps businesses understand sales performance, segment customers, identify potential churn risks, and generate actionable business insights using Machine Learning and Generative AI.
 
@@ -257,11 +258,11 @@ These figures represent the development dataset and are not actual business or c
 
 ## 👨‍💻 Author
 
-**Itibrata Sahoo**
+**Pritam Mahamansingh**
 
 Aspiring Data Analyst | Machine Learning & AI Enthusiast
 
-GitHub: [itibrata-2004-git](https://github.com/itibrata-2004-git)
+GitHub: [Pritam-2002-git](https://github.com/Pritam-2002-git)
 
 ---
 
